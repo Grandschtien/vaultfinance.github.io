@@ -180,8 +180,8 @@ If we make material changes, we may notify you through the app, by email, or by 
 
 If you have any questions about this Privacy Policy or your personal data, contact us at:
 
-**Email:** [your support email]
+**Email:** support@moneyvaultapp.com
 
-**Developer/Company:** [your name or company name]
+**Developer/Company:** Egor Shkarin
 
-**Country/Region:** [your country or business registration country]
+**Country/Region:** Kazakhstan
