@@ -182,6 +182,6 @@ If you have any questions about this Privacy Policy or your personal data, conta
 
 **Email:** support@moneyvaultapp.com
 
-**Developer/Company:** Egor Shkarin
+**Developer/Company:** Vault finance
 
 **Country/Region:** Kazakhstan
